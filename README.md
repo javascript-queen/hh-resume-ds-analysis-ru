@@ -1,12 +1,12 @@
 # Анализ резюме из HeadHunter (PJ)
 
-### ✨ [Ссылка](https://drive.google.com/drive/folders/11FqOXlEH87xd3NLkbXVf0QwV5ZWHmLyO?usp=sharing) на датасеты, с которыми я работала.
+### ✨ [Ссылка](https://drive.google.com/drive/folders/11FqOXlEH87xd3NLkbXVf0QwV5ZWHmLyO?usp=sharing) на датасеты, с которыми я работала
 
 ### ✨ ВАЖНО!
 
 *В данном репозитории есть два основных файла: файл проекта Project_1 и файл Project_1_with_pics. Из-за того, что plotly не отображается на GitHub, я добавила визуал при помощи библиотеки plotly.io. Я банально рендерила мои графические изображения в качестве png-картинок. Они не будут интерактивными, но другого варианта я пока для себя пока не открыла.*
 
-### ✨ [Ссылка](https://drive.google.com/file/d/1gS3rLEe8uq7wRwrvk0cxuk26llqnFqpb/view?usp=sharing) на Google Colab решение.
+### ✨ [Ссылка](https://drive.google.com/file/d/1gS3rLEe8uq7wRwrvk0cxuk26llqnFqpb/view?usp=sharing) на Google Colab решение
 
 ### ✨ Организационная информация:
 
